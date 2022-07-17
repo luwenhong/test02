@@ -12,6 +12,6 @@ public class HelloController {
 	
 	@RequestMapping("whl")
 	public String whl(){
-		return "王海丽";
+		return "陆文宏";
 	}
 }
