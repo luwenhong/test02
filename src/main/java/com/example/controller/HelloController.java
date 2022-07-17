@@ -9,4 +9,9 @@ public class HelloController {
 	public String info(){
 		return "hello lwn";
 	}
+	
+	@RequestMapping("whl")
+	public String whl(){
+		return "王海丽";
+	}
 }
